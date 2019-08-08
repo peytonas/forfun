@@ -15,7 +15,7 @@
 
 .third-row {
   color: black;
-  min-height: 40vh;
+  min-height: 35vh;
 }
 
 ::-webkit-scrollbar {
@@ -23,8 +23,9 @@
 }
 
 .map-row {
-  background-image: url(https://www.citymetric.com/sites/default/files/styles/nodeimage/public/article_2016/08/gmaps_head.png?itok=MZsYvZFq);
-  min-height: 35vh;
+  background-image: url(https://images.unsplash.com/photo-1530053969600-caed2596d242?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80);
+  min-height: 50vh;
+  background-size: cover;
 }
 
 .bg-dark{
