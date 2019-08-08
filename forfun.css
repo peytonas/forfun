@@ -1,31 +1,37 @@
-.stylus-image{
-  background-image: url('https://entreprenoria.com/wp-content/uploads/2016/04/The-Pros-and-Cons-of-Being-Your-Own-Boss-702x336.jpg');
+.stylus-image {
+  background-image: url(https://wpmisc.com/sites/default/files/wallpaper/sports/74928/san-jose-sharks-hd-wallpapers-74928-8343170.png);
   background-size: cover;
+  min-height: 95vh;
+}
+
+.blue {
+  background-color:#08535e;
   min-height: 46vh;
 }
 
-.blue{
-  min-height: 46vh;
-  background-color: #469ae0;
+.blue-button {
+  background-color: #08535e;
 }
 
-.third-row{
+.third-row {
+  color: black;
   min-height: 40vh;
 }
 
-::-webkit-scrollbar{
+::-webkit-scrollbar {
   display: none;
 }
 
-.map-row{
-  background-image: url('https://www.citymetric.com/sites/default/files/styles/nodeimage/public/article_2016/08/gmaps_head.png?itok=MZsYvZFq');
+.map-row {
+  background-image: url(https://www.citymetric.com/sites/default/files/styles/nodeimage/public/article_2016/08/gmaps_head.png?itok=MZsYvZFq);
   min-height: 35vh;
 }
 
 .bg-dark{
-  color: wheat!important;
-  background-color: black!important;
+  color: white!important;
+  background-color: #222021!important;
 }
 
-.navbar-nav{
+.navbar-nav {
   flex-direction: row;
+}
